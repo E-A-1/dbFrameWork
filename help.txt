@@ -1,0 +1,7 @@
+step 1
+1. Restore your db Framework to your workspace
+2. Refer all req libraries to your project
+3. Create a database in mysql
+4. create a table named tbl_country (id int, name varchar(25))
+5. modify your jdbcds.properties file as per yor db connection properties such as username , password, driver, url 
+6. Open Driver Class and perform menu operations
